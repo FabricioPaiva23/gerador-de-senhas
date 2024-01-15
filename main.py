@@ -1,6 +1,7 @@
 from tkinter import *
 from tkinter import ttk
 from PIL import ImageTk, Image
+import math
 
 cor0 = "#444466"
 cor1 = "#feffff"
