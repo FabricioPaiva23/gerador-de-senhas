@@ -3,6 +3,7 @@ from tkinter import ttk
 from PIL import ImageTk, Image
 import math
 import random
+import mailbox
 
 cor0 = "#444466"
 cor1 = "#feffff"
